@@ -1,7 +1,7 @@
-# Day-1-(Nama_Kelompok)_Nama Lengkap
+# Day-1-Stumble-Guys_Farsha-Handranindika
 
-- **Nama Lengkap:** Nama Lengkap Anda
-- **Kelompok:** Nama Kelompok Anda
+- **Nama Lengkap:** Farsha Handranindika
+- **Kelompok:** Stumble Guys
 
 # Deskripsi
 Repository ini dibuat untuk memenuhi penugasan Day-1 workshop dengan topik pengembangan perangkat lunak menggunakan bantuan AI dan manajemen versi menggunakan Git serta GitHub.
